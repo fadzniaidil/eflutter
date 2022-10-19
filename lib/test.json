@@ -1,0 +1,339 @@
+{
+  "status": true,
+  "data": {
+      "NADIA AQMAL": {
+          "reasons": []
+      },
+      "RAZIAH": {
+          "reasons": []
+      },
+      "NUR FAATIHAH AMILA": {
+          "reasons": []
+      },
+      "NORHAYATI": {
+          "reasons": []
+      },
+      "NOR AZMAINI": {
+          "reasons": {
+              "1450392-333243": {
+                  "date": "2022-05-26",
+                  "category": "Keluar Awal",
+                  "attendanceTime": "08:48:00 - 13:11:00",
+                  "reason": "Urusan Peribadi - Kesihatan Anak",
+                  "submitted": "2022-05-30 09:21:56"
+              }
+          }
+      },
+      "SALWA": {
+          "reasons": []
+      },
+      "MOHD KHAIRI": {
+          "reasons": []
+      },
+      "RAJA INTAN MASTURA": {
+          "reasons": {
+              "1446534-332624": {
+                  "date": "2022-05-12",
+                  "category": "Klinik / Hospital",
+                  "attendanceTime": "08:23:00 - 14:31:00",
+                  "reason": "Membawa anak menghadiri temu janji klinik kesihatan",
+                  "submitted": "2022-05-23 17:11:56"
+              }
+          }
+      },
+      "NURUL ADILIAH": {
+          "reasons": []
+      },
+      "NORMASTURA": {
+          "reasons": {
+              "1446411-332532": {
+                  "date": "2022-05-13",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": "11:38:00 - ",
+                  "reason": "Menghadiri Mesyuarat Jawatankuasa Karnival Sains MOSTI Bertempat di Kota Tinggi Johor",
+                  "submitted": "2022-05-23 10:23:45"
+              },
+              "1446411-332533": {
+                  "date": "2022-05-13",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": "11:38:00 - ",
+                  "reason": "Menghadiri Mesyuarat Jawatankuasa Karnival Sains MOSTI Bertempat di Kota Tinggi Johor",
+                  "submitted": "2022-05-23 10:24:09"
+              }
+          }
+      },
+      "NORHASIMAH": {
+          "reasons": {
+              "1412098-326183": {
+                  "date": "2022-03-23",
+                  "category": "Daftar Masuk/Keluar (BDR)",
+                  "attendanceTime": null,
+                  "reason": "Daftar Masuk : 21:26 <a href=\"https://www.google.com/maps/place/3.02205324173,101.76181030273\" target=\"_blank\"><span class=\"glyphicon glyphicon-map-marker\"></span></a>",
+                  "submitted": "2022-03-24 00:04:17"
+              }
+          }
+      },
+      "MUHAMAD BAIHAQI": {
+          "reasons": []
+      },
+      "AIDA ROSMIZA": {
+          "reasons": []
+      },
+      "RIZMI": {
+          "reasons": []
+      },
+      "HALILA FAIZA": {
+          "reasons": {
+              "1417492-326186": {
+                  "date": "2022-03-23",
+                  "category": "Daftar Masuk/Keluar (BDR)",
+                  "attendanceTime": null,
+                  "reason": "Daftar Masuk : 08:10",
+                  "submitted": "2022-03-24 00:04:17"
+              },
+              "1417493-332884": {
+                  "date": "2022-03-24",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "Perbincangan dan lawatan tapak projek HTLT - Majlis Bandaraya Melaka Bersejarah di Bandar Melaka",
+                  "submitted": "2022-05-25 17:38:00"
+              },
+              "1417494-332889": {
+                  "date": "2022-03-25",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Hadir Bengkel Projek HTLT - Terowong Bawah Tanah di Pulau Besar, Melaka",
+                  "submitted": "2022-05-25 17:38:49"
+              },
+              "1417497-332880": {
+                  "date": "2022-03-28",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "SESI PERBINCANGAN DAN LAWATAN TAPAK HTLT DI FASILITI PRASARANA",
+                  "submitted": "2022-05-25 17:31:17"
+              },
+              "1417498-327033": {
+                  "date": "2022-03-29",
+                  "category": "Daftar Masuk/Keluar (BDR)",
+                  "attendanceTime": null,
+                  "reason": "Daftar Masuk : 08:40",
+                  "submitted": "2022-03-30 00:06:18"
+              },
+              "1417499-332878": {
+                  "date": "2022-03-30",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Bengkel Pembangunan Industri Recreational Vehicle (RV) di Kuala Terengganu",
+                  "submitted": "2022-05-25 17:29:16"
+              },
+              "1417500-332879": {
+                  "date": "2022-03-31",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Bengkel Pembangunan Industri Recreational Vehicle (RV) di Kuala Terengganu",
+                  "submitted": "2022-05-25 17:29:40"
+              },
+              "1434587-332877": {
+                  "date": "2022-04-01",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Bengkel Pembangunan Industri Recreational Vehicle (RV) di Kuala Terengganu",
+                  "submitted": "2022-05-25 17:28:51"
+              },
+              "1434592-328588": {
+                  "date": "2022-04-06",
+                  "category": "Daftar Masuk/Keluar (BDR)",
+                  "attendanceTime": null,
+                  "reason": "Daftar Masuk : 08:24",
+                  "submitted": "2022-04-07 00:01:16"
+              },
+              "1434594-328814": {
+                  "date": "2022-04-08",
+                  "category": "Daftar Masuk/Keluar (BDR)",
+                  "attendanceTime": null,
+                  "reason": "Daftar Masuk : 09:01",
+                  "submitted": "2022-04-09 00:01:16"
+              },
+              "1454747-332872": {
+                  "date": "2022-05-10",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "Bertugas di INOTEX 2022, Iran",
+                  "submitted": "2022-05-25 17:26:11"
+              },
+              "1454748-332873": {
+                  "date": "2022-05-11",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "Bertugas di INOTEX 2022, Iran",
+                  "submitted": "2022-05-25 17:26:26"
+              },
+              "1454749-332874": {
+                  "date": "2022-05-12",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "Bertugas di INOTEX 2022, Iran",
+                  "submitted": "2022-05-25 17:26:44"
+              },
+              "1454750-332875": {
+                  "date": "2022-05-13",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "Bertugas di INOTEX 2022, Iran",
+                  "submitted": "2022-05-25 17:27:00"
+              },
+              "1417486-332890": {
+                  "date": "2022-03-17",
+                  "category": "Lupa Rakam Waktu",
+                  "attendanceTime": "08:45:00 - ",
+                  "reason": "",
+                  "submitted": "2022-05-25 17:40:05"
+              }
+          }
+      },
+      "HALEMA": {
+          "reasons": {
+              "1446998-332537": {
+                  "date": "2022-05-11",
+                  "category": "Bekerja Dari Rumah (BDR)",
+                  "attendanceTime": null,
+                  "reason": "",
+                  "submitted": "2022-05-23 10:41:59"
+              },
+              "1437017-332540": {
+                  "date": "2022-04-29",
+                  "category": "Lain-lain",
+                  "attendanceTime": "09:20:00 - 17:40:00",
+                  "reason": "kesilapan clock in ",
+                  "submitted": "2022-05-23 10:44:01"
+              },
+              "1447007-332538": {
+                  "date": "2022-05-20",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": "15:20:00 - 19:10:00",
+                  "reason": "Menghadiri Perjumpaan KSU bersama Pegawai Kanan Jabatan Nuklear Malaysia",
+                  "submitted": "2022-05-23 10:42:49"
+              },
+              "1447014-333233": {
+                  "date": "2022-05-27",
+                  "category": "Lain-lain",
+                  "attendanceTime": "11:04:00 - 18:13:00",
+                  "reason": "Menguruskan persiapan Jamuan Hari raya Sektor T",
+                  "submitted": "2022-05-30 09:12:36"
+              },
+              "1447012-333234": {
+                  "date": "2022-05-25",
+                  "category": "Lain-lain",
+                  "attendanceTime": "08:58:00 - ",
+                  "reason": "Work from home",
+                  "submitted": "2022-05-30 09:13:27"
+              }
+          }
+      },
+      "KOGULADAS": {
+          "reasons": {
+              "1439874-332366": {
+                  "date": "2022-05-17",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Menghadiri Konvensyen KIK TUDM sebagai Panel Penilai dari 17 hingga 19 Mei 2022 di TUDM Subang.",
+                  "submitted": "2022-05-20 07:41:02"
+              },
+              "1439875-332367": {
+                  "date": "2022-05-18",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Menghadiri Konvensyen KIK TUDM sebagai Panel Penilai dari 17 hingga 19 Mei 2022 di TUDM Subang.",
+                  "submitted": "2022-05-20 07:41:02"
+              },
+              "1439876-332368": {
+                  "date": "2022-05-19",
+                  "category": "Kursus / Bengkel",
+                  "attendanceTime": null,
+                  "reason": "Menghadiri Konvensyen KIK TUDM sebagai Panel Penilai dari 17 hingga 19 Mei 2022 di TUDM Subang.",
+                  "submitted": "2022-05-20 07:41:02"
+              }
+          }
+      },
+      "FAIRUL AZIDA": {
+          "reasons": []
+      },
+      "HO": {
+          "reasons": []
+      },
+      "MUHAMMAD SHAUKIE": {
+          "reasons": []
+      },
+      "NURUL HASNIZA": {
+          "reasons": []
+      },
+      "DENESWARI": {
+          "reasons": []
+      },
+      "ARMI HAZRI": {
+          "reasons": []
+      },
+      "KIEN PING": {
+          "reasons": []
+      },
+      "SYAHANIM": {
+          "reasons": {
+              "1446160-331392": {
+                  "date": "2022-05-10",
+                  "category": "Lain-lain",
+                  "attendanceTime": "09:12:00 - 17:55:00",
+                  "reason": "Kereta rosak ",
+                  "submitted": "2022-05-11 13:06:13"
+              },
+              "1446163-332119": {
+                  "date": "2022-05-13",
+                  "category": "Lain-lain",
+                  "attendanceTime": "13:40:00 - 18:11:00",
+                  "reason": "Menguruskan kereta rosak ke bengkel. Mengambil masa yang agak lama kerana melibatkan urusan dengan syarikat towing dan insurans. ",
+                  "submitted": "2022-05-18 09:11:42"
+              },
+              "1423903-331575": {
+                  "date": "2022-04-27",
+                  "category": "Lain-lain",
+                  "attendanceTime": "08:31:00 - 11:41:00",
+                  "reason": "kesilapan teknikal.\r\n\r\nPada 27 April 2022, telah scan pulang pada pukul 5.30 petang",
+                  "submitted": "2022-05-12 11:31:32"
+              },
+              "1446159-331391": {
+                  "date": "2022-05-09",
+                  "category": "Lain-lain",
+                  "attendanceTime": "07:38:00 - ",
+                  "reason": "Mengambil Cuti Rehat pada 9 Mei 2022. \r\n",
+                  "submitted": "2022-05-11 13:05:16"
+              }
+          }
+      },
+      "WAN MOHD KHAIRUL NAZMI ": {
+          "reasons": {
+              "1450888-333348": {
+                  "date": "2022-05-26",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": null,
+                  "reason": "Istiadat Penganugerahan Diploma Pascasiswazah (DPA) dan Felo INTAN Tahun 2022 di MAPES, Serdang (8.00 - 1.00 petang)",
+                  "submitted": "2022-05-30 14:17:42"
+              },
+              "1450887-333347": {
+                  "date": "2022-05-25",
+                  "category": "Mesyuarat di luar pejabat",
+                  "attendanceTime": "08:30:00 - 17:19:00",
+                  "reason": "Sesi Raptai Istiadat Penganugerahan Diploma Pascasiswazah (DPA) dan Felo INTAN Tahun 2022 di MAPES, Serdang (2.00 - 6.30 petang)",
+                  "submitted": "2022-05-30 14:16:36"
+              }
+          }
+      },
+      "NOORFARAIN": {
+          "reasons": []
+      },
+      "OH": {
+          "reasons": []
+      },
+      "MOHAMMAD DANIEL ": {
+          "reasons": []
+      }
+  }
+}

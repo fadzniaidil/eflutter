@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "541503452774",
+    "project_id": "eflutter-5e2a7",
+    "storage_bucket": "eflutter-5e2a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541503452774:android:20fb29f8019e18a64bdfa7",
+        "android_client_info": {
+          "package_name": "com.eflutter.eflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541503452774-lcuavnpacs57p1fiir5pr05u8lc4mo3j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmta0wH1F1RGd3diP-T66C1ooaAK8GBQ0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541503452774-lcuavnpacs57p1fiir5pr05u8lc4mo3j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
